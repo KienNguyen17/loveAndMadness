@@ -1,0 +1,30 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "ENGL 272 Narratives"
+  sidebar:
+    style: "docked"
+    search: true
+    contents:
+      - href: index.qmd
+        text: Home
+      - href: about.qmd
+        text: About Me
+      - section: "Blog Posts"
+        contents:
+          - post1.qmd
+
+         
+
+format:
+  html:
+    theme: flatly
+    css: styles.css
+    toc: true
+    toc-location: left
+    toc-expand: 2
+
+
+
