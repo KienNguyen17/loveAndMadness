@@ -1,0 +1,33 @@
+[
+  {
+    "objectID": "post1.html",
+    "href": "post1.html",
+    "title": "Melville",
+    "section": "",
+    "text": "This is a post about Melville\nTesting testing",
+    "crumbs": [
+      "Blog Posts",
+      "Melville"
+    ]
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "ENGL 272 Narratives",
+    "section": "",
+    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2",
+    "crumbs": [
+      "Home"
+    ]
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "Kien Nguyen",
+    "section": "",
+    "text": "Finley Malloc is the Chief Data Scientist at Wengo Analytics. When not innovating on data platforms, Finley enjoys spending time unicycling and playing with her pet iguana.",
+    "crumbs": [
+      "About Me"
+    ]
+  }
+]
