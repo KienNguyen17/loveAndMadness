@@ -2,7 +2,7 @@
 title: "Kien Nguyen"
 about:
   template: jolla
-  # image: profile.jpg
+  image: profile.png
 ---
 
-Finley Malloc is the Chief Data Scientist at Wengo Analytics. When not innovating on data platforms, Finley enjoys spending time unicycling and playing with her pet iguana.
+Kien is a senior at Macalester College. He majored in English (Creative Writing), Computer Science and Linguistics. He is the editor-in-chief at *Chanter Literary and Arts Magazine*. He was born in Hanoi, Vietnam and currently resides in St. Paul, Minnesota.

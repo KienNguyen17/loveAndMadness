@@ -2,20 +2,31 @@
   {
     "objectID": "post1.html",
     "href": "post1.html",
-    "title": "Melville",
+    "title": "To Frame A Life",
     "section": "",
-    "text": "This is a post about Melville\nTesting testing",
+    "text": "As a fiction writer, first and foremost, I am fascinated by forms and mediums in storytelling. In particular, I wanted to investigate forms of narrative that straddle the line between fiction and nonfiction. In one direction, we have works of fiction that attempt to present itself as reality, such as epistolary novels, found footage movies or other kinds of stories that involve a large degree of meta fiction surrounding its creation. In the other direction, we have works that are purportedly non-fiction, such as memoirs, biographies, or biopics, but carry a certain license for inaccuracies and rewriting of facts. This latter category might seem more nebulous and even contentious, as one would argue that memoirs and biographies are categorically nonfiction. However,",
     "crumbs": [
       "Blog Posts",
-      "Melville"
+      "To Frame A Life"
+    ]
+  },
+  {
+    "objectID": "post1.html#benjamin-franklin-frederick-douglas-and-goethe",
+    "href": "post1.html#benjamin-franklin-frederick-douglas-and-goethe",
+    "title": "To Frame A Life",
+    "section": "",
+    "text": "As a fiction writer, first and foremost, I am fascinated by forms and mediums in storytelling. In particular, I wanted to investigate forms of narrative that straddle the line between fiction and nonfiction. In one direction, we have works of fiction that attempt to present itself as reality, such as epistolary novels, found footage movies or other kinds of stories that involve a large degree of meta fiction surrounding its creation. In the other direction, we have works that are purportedly non-fiction, such as memoirs, biographies, or biopics, but carry a certain license for inaccuracies and rewriting of facts. This latter category might seem more nebulous and even contentious, as one would argue that memoirs and biographies are categorically nonfiction. However,",
+    "crumbs": [
+      "Blog Posts",
+      "To Frame A Life"
     ]
   },
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "ENGL 272 Narratives",
+    "title": "Intellectual Narratives",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2",
+    "text": "Part of Macalester College’s ENGL272 Course: Love and Madness in 19th Century American Literature for the Spring 2025 Semester.\nThis blog is a collection of intellectual narratives written based on readings from the class, each blog post focusing on a theme that connects one or more of the texts. Use the navbar on the left to check out the posts!",
     "crumbs": [
       "Home"
     ]
@@ -25,7 +36,7 @@
     "href": "about.html",
     "title": "Kien Nguyen",
     "section": "",
-    "text": "Finley Malloc is the Chief Data Scientist at Wengo Analytics. When not innovating on data platforms, Finley enjoys spending time unicycling and playing with her pet iguana.",
+    "text": "Kien is a senior at Macalester College. He majored in English (Creative Writing), Computer Science and Linguistics. He is the editor-in-chief at Chanter Literary and Arts Magazine. He was born in Hanoi, Vietnam and currently resides in St. Paul, Minnesota.",
     "crumbs": [
       "About Me"
     ]

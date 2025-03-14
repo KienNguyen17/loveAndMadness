@@ -1,6 +1,9 @@
 ---
-title: "Melville"
+title: "To Frame A Life"
 ---
-# This is a post about Melville
-Testing testing
+
+## Benjamin Franklin, Frederick Douglas, and Goethe {.unnumbered .unlisted}
+
+As a fiction writer, first and foremost, I am fascinated by forms and mediums in storytelling. In particular, I wanted to investigate forms of narrative that straddle the line between fiction and nonfiction. In one direction, we have works of fiction that attempt to present itself as reality, such as epistolary novels, found footage movies or other kinds of stories that involve a large degree of meta fiction surrounding its creation. In the other direction, we have works that are purportedly non-fiction, such as memoirs, biographies, or biopics, but carry a certain license for inaccuracies and rewriting of facts. This latter category might seem more nebulous and even contentious, as one would argue that memoirs and biographies are categorically nonfiction. However, 
+
 

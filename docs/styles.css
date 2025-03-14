@@ -1,1 +1,9 @@
 /* css styles */
+
+p {
+  padding: 16;
+}
+
+h2 {
+  font-size: 10;
+}

@@ -1,11 +1,8 @@
 ---
-title: "ENGL 272 Narratives"
+title: "Intellectual Narratives"
+author: "Kien Nguyen"
 ---
 
-This is a Quarto website.
+Part of Macalester College's ENGL272 Course: Love and Madness in 19th Century American Literature for the Spring 2025 Semester. 
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
-
-```{r}
-1 + 1
-```
+This blog is a collection of intellectual narratives written based on readings from the class, each blog post focusing on a theme that connects one or more of the texts. Use the navbar on the left to check out the posts!

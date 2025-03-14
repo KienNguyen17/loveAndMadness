@@ -20,11 +20,11 @@ website:
 
 format:
   html:
-    theme: flatly
+    theme: cosmo
     css: styles.css
     toc: true
     toc-location: left
-    toc-expand: 2
+    toc-expand: 1
 
 
 
