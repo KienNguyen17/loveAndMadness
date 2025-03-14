@@ -3,6 +3,20 @@ title: "Intellectual Narratives"
 author: "Kien Nguyen"
 ---
 
-Part of Macalester College's ENGL272 Course: Love and Madness in 19th Century American Literature for the Spring 2025 Semester. 
+Part of Macalester College's ENGL 272: Love and Madness in 19th Century American Literature for the Spring 2025 Semester. 
 
 This blog is a collection of intellectual narratives written based on readings from the class, each blog post focusing on a theme that connects one or more of the texts. Use the navbar on the left to check out the posts!
+
+Here are the list of texts we read for the class so far:
+
+* Benjamin Franklin, *The Autobiography*
+
+* Marquis De Sade, *Justine*, *Juliette*
+
+* Johann Wolfgang von Goethe, *The Sorrows of Young Werther*
+
+* Nathaniel Hawthorne, *The House of the Seven Gables*
+
+* Frederick Douglass, *Narrative of the life of Frederick Douglass*
+
+* Herman Melville, *Billy Budd*, *Bartleby*, *Benito Cereno*
