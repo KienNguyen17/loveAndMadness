@@ -6,12 +6,15 @@ website:
   title: "ENGL 272 Narratives"
   sidebar:
     style: "docked"
-    search: true
+    background: light
+    foreground: primary
+    border: true
     contents:
       - href: index.qmd
         text: Home
       - href: about.qmd
         text: About Me
+      - text: "---"
       - section: "Blog Posts"
         contents:
           - post1.qmd
