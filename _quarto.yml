@@ -18,6 +18,9 @@ website:
       - section: "Blog Posts"
         contents:
           - post1.qmd
+          - post2.qmd
+          - post3.qmd
+          - worksCited.qmd
 
          
 
